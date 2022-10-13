@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+  }
+  
+  li {
+    padding-top: 10px;
+  }
+  
+  h4 {
+    text-align: center;
+  }
+  
+  #image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 400px;
+  }
+
+ figure {
+    width: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ figcaption {
+    font-size: 10px;
+ }
+
+  ul {    
+    width: 700px;    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #tribute-link {    
+    text-align: center;
+  }
